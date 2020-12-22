@@ -1,0 +1,1 @@
+This is a mini web game called "Space Shooter". For start game , go to - koliadrot.github.io
